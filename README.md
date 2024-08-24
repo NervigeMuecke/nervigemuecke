@@ -8,11 +8,9 @@
 
 - Founder of [Z3US](https://discord.gg/VaMhJXgr2M)
 
-- I’m currently learning **Kernel (Windows Drivers)**
+- I'm a currently learning Python and C#
 
-- I'm a really good cheat dev
-
-- I made the KRNL UI, you can find the source [here](https://github.com/paysonism/KRNL-Open-Source)
+- My main language is Lua
 
 - All of my projects are available [here](https://github.com/nervigemuecke?tab=repositories).
 
