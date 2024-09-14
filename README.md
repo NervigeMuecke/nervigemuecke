@@ -4,8 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-nervigemuecke&label=Profile%20views&color=1100ff&style=flat" alt="Profile Views" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/nervigemuecke" alt="followers"> </p>
 
-<p align="center"> Contact Me:<a href="https://discord.gg/users/786962580110704641">Discord</a></p>
-
 - Founder of [Z3US](https://discord.gg/VaMhJXgr2M)
 
 - I'm a currently learning Python and C#
