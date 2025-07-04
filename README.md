@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder of [Z3US](https://discord.gg/VaMhJXgr2M)<br>Co-Founder of [ZYPHERION](https://discord.gg/79ttSvSS28)<br>I'm a currently learning Python and C#<br>My main language is Lua<br>All of my projects are available [here](https://github.com/nervigemuecke?tab=repositories).
+Founder of [Z3US](https://discord.gg/79ttSvSS28)<br>I'm a currently learning Python and C#<br>My main language is Lua<br>All of my projects are available [here](https://github.com/nervigemuecke?tab=repositories).
 
 
 ## 🌐 Socials:
